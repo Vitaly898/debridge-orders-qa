@@ -1,0 +1,6 @@
+{
+  "giveChainIds": [42161],
+  "takeChainIds": [7565164],
+  "orderStates": ["Fulfilled"],
+  "filterMode": "CrossChain"
+}
